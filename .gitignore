@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+data/beir*.json
+evaluation/data/*
+models
+pretrained*
+instance.txt
+
 # C extensions
 *.so
 
